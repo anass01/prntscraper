@@ -3,7 +3,9 @@
 
 # Prerequisites
 
-python 3
+Firefox
+
+python 3 
 
 | module   | install              |
 | -------- | :------------------- |
